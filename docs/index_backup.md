@@ -4,12 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Android入门](./android-enter.html).
-
-[Link to another page](./another-page.html).
-
-[Link to another page](./another-page.html).
-
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
