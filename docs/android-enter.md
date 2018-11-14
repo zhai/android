@@ -10,17 +10,19 @@ categories: original
 [返回](./)
 
 
-1.  Android 知识图谱
+1.  Android 学习路线图
 
-    ![Branching](./assets/images/Picture1.png)
+    [Android学习路线图纯文字版](./android-enter-md.html)
+    
+    [Android学习路线图纯图片版](assets/images/Android开发路线图.png)
     
 1.  Android 知识思维导图
-
-    ![Branching](./assets/images/Picture1.png)
+     
+    [Android进阶路线思维导图.png](assets/images/Android进阶路线思维导图.png)
     
 1. Andrioid入门推荐图书
 
-     <a href="./assets/pdf/第一行代码%20Android%20第2版-郭霖-人邮-2016.12.pdf" target="_blank">第一行代码第二版.pdf</a>
+     <a href="./assets/pdf/第一行代码%20Android%20第2版-郭霖-人邮-2016.12.pdf" target="_blank">第一行代码 Android 第2版-郭霖-人邮-2016.12.pdf</a>
      
     
 
