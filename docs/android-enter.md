@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: page
+title:  Android入门知识指南
+description: 推荐Android系统入门的方法和书籍
+date:   2017-01-14 15:03:25
+categories: original
 ---
 ## Android入门知识指南
 
