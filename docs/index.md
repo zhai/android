@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "android知识图谱"
+layout: index
+title:  "android Study Note"
 date:   2018-11-11 15:00:00
 categories: original
 ---
