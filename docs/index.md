@@ -17,7 +17,7 @@ categories: original
 
 [Android核心原理](./android-enter.html)
 
-[Android工具](./android-enter.html)
+[Android工具](./android-tool.html)
 
 
 [//]: 注释
