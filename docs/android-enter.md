@@ -22,7 +22,7 @@ categories: original
      
 1. Andrioid入门推荐图书
 
-     <a href="./assets/pdf/第一行代码%20Android%20第2版-郭霖-人邮-2016.12.pdf" target="_blank">第一行代码 Android 第2版-郭霖-人邮-2016.12.pdf</a>
+     <a href="./assets/pdf/第一行代码%20Android%20第2版-郭霖-人邮-2016.12.pdf" target="_blank">第一行代码 Android 第2版-郭霖-人邮-2016.12.pdf</a> | [京东购买本书](https://item.jd.com/12012505.html)
      
     
 
