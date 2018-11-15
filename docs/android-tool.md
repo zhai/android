@@ -18,8 +18,6 @@ categories: original
 <a href="https://icon.wuruihong.com/" target="_blank">移动应用图标生成工具，一键生成所有尺寸的应用图标，上传1024x1024图标</a>
      
     
-1. ![Octocat](https://icon.wuruihong.com/favicon.ico){:height="22px" width="22px"} 
-<a href="https://icon.wuruihong.com/" target="_blank">移动应用图标生成工具，一键生成所有尺寸的应用图标，上传1024x1024图标</a>
-     
+ 
 
 
