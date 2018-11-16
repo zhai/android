@@ -1,0 +1,23 @@
+<h2 id="android入门知识指南">Android入门知识指南</h2>
+
+<p><a href="./">返回</a></p>
+
+<p>####2. 切换分支，合并代码，同步源代码，提交代码</p>
+
+<ol>
+  <li>fork</li>
+  <li>git clone my.git</li>
+  <li>git remote add upstream  his.git    //指向原始git</li>
+  <li>是否切换到其他分支例如dev_remote，如果是进入以下操作</li>
+  <li>git checkout origin/dev_remote  拉下分支</li>
+  <li>git checkout -b dev_remote</li>
+  <li>修改代码</li>
+  <li>git add -A</li>
+  <li>git commit -a -m “添加的内容”</li>
+  <li>拉取源库的更新并合并到本地</li>
+  <li>git fetch upstream</li>
+  <li>git merge upstream/dev_remote  合并</li>
+  <li>git push origin dev_remote</li>
+  <li>去github网站上去处理 pull request</li>
+</ol>
+

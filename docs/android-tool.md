@@ -19,7 +19,7 @@ categories: original
      
  
 1. ![Octocat](https://tinypng.com/images/favicon.ico){:height="22px" width="22px"} 
-<a href="https://tinypng.com/" target="_blank">在线压缩图片</a>
+<a href="https://tinypng.com/" target="_blank">在线批量压缩图片</a>
      
         
  

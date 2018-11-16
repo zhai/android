@@ -17,11 +17,11 @@ categories: original
 
 [//]:[Android核心原理](./android-core.html)
 
-[//]:[Android面试指南](./android-enter.html)
+[Android面试指南](./interview/README.html)
 
 [Android在线工具](./android-tool.html)
 
-[在GitHub上贡献自己的代码](./android-github.html)
+[如何在GitHub上贡献自己的代码](./android-github.html)
 
 [//]:[优秀Android项目源码](./android-github.html)
 
