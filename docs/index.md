@@ -19,7 +19,7 @@ categories: original
 
 [//]:[Android面试指南](./android-enter.html)
 
-[//]:[Android在线工具](./android-tool.html)
+[Android在线工具](./android-tool.html)
 
 [在GitHub上贡献自己的代码](./android-github.html)
 
