@@ -31,4 +31,4 @@ categories: original
 
 本页内容贡献者
 
-*   [zhai](https://github.com/zhai) [罗湘成](https://github.com/luoxiangcheng) [罗湘成](https://github.com/luoxiangcheng) [罗湘成](https://github.com/luoxiangcheng) [罗湘成](https://github.com/luoxiangcheng)
+*   [zhai](https://github.com/zhai) [罗湘成](https://github.com/luoxiangcheng)  
