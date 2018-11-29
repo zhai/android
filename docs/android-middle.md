@@ -15,8 +15,8 @@ categories: original
     ![Octocat](https://www.imooc.com/static/img/common/touch-icon-iphone-retina.png){:height="22px" width="22px"} 
 <a href="https://www.imooc.com/video/15526" target="_blank">慕课网RxJava和RxAndroid免费视频课 </a>
 
-    ![Octocat](https://www.imooc.com/static/img/common/touch-icon-iphone-retina.png){:height="22px" width="22px"} 
-<a href="https://www.imooc.com/video/15526" target="_blank">一篇文章入门RxAndroid开发 </a>
+    ![Octocat](https://b-gold-cdn.xitu.io/favicons/v2/favicon-32x32.png){:height="22px" width="22px"} 
+<a href="https://juejin.im/entry/5884374e570c350062c1ac3b" target="_blank">[译] RxAndroid 中文教程</a>
      
 1.  Android Mvp      
 
