@@ -11,6 +11,8 @@ categories: original
 
 [Android入门指南](./android-enter.html)
 
+[Android进阶技术](./android-middle.html)
+
 [Android第三方库](./android-lib.html)
 
 [//]:[Android在线视频](./android-enter.html)
