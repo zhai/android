@@ -5,10 +5,8 @@ description: 一个老鸟发的公司内部整理的Android学习路线图
 date:   2018-11-11 15:03:25
 categories: original
 ---
-## Android学习路线图
-
-[返回](./)
-
+## 目录
+ 
 > 整理自[jerrysher](https://www.diycode.cc/jerrysher)的[一个老鸟发的公司内部整理的 Android 学习路线图 Markdown 版本](https://www.diycode.cc/topics/122)
 
 ------

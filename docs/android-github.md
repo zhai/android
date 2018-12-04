@@ -5,10 +5,7 @@ description:
 date:   2018-11-11 15:03:25
 categories: original
 ---
-## Android入门知识指南
-
-[返回](./)
-
+## 如何在Github上面贡献代码
 
 ####拉取代码. 切换分支，合并代码，同步源代码，提交代码
 

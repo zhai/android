@@ -5,10 +5,7 @@ description: 推荐Android进阶相关的技术
 date:   2018-11-11 15:03:25
 categories: original
 ---
-## Android进阶技术合集
-
-[返回](./)
-
+## 目录
 
 1.  RxJava 和 RxAndroid
 
@@ -22,7 +19,8 @@ categories: original
 
 1.  Android OKHttp+Retrofit
 
-1.   
+1. ![Octocat](https://icon.wuruihong.com/favicon.ico){:height="22px" width="22px"} 
+     <a href="https://github.com/googlesamples/android-architecture" target="_blank">谷歌驾构蓝皮书</a>
      
 
 

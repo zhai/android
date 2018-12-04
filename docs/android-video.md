@@ -1,15 +1,12 @@
 ---
 layout: page
-title:  Android入门知识指南
+title:  Android视频集合
 description: 推荐Android系统入门的方法和书籍
 date:   2018-11-11 15:03:25
 categories: original
 ---
-## Android入门知识指南
-
-[返回](./)
-
-
+## 目录
+ 
 
 1. 在线视频
 

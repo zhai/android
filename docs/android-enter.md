@@ -5,9 +5,8 @@ description: 推荐Android系统入门的路线和书籍,适合外行想了解An
 date:   2018-11-11 15:03:25
 categories: original
 ---
-## Android入门知识指南
 
-[返回](./)
+## 目录
 
 
 1.  Android 学习路线图
